@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "express": "^4.15.3",
+    "body-parser": "*",
     "request": "*",
     "feedparser": "*"
   },
